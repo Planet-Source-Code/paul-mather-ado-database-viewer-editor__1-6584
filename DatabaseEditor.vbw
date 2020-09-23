@@ -1,0 +1,16 @@
+frmMain = 44, 44, 568, 358, C, 22, 22, 546, 336, C
+basGeneral = 88, 88, 612, 402, C
+basRegistry = 22, 22, 546, 336, C
+basCommonDialog = 132, 132, 723, 446, C
+frmNetwork = 110, 110, 634, 424, C, 88, 88, 612, 402, C
+basLockFormSize = 66, 66, 590, 380, C
+basMessageBox = 132, 132, 612, 506, C
+frmPurgeDate = 132, 132, 612, 506, C, 176, 178, 656, 550, C
+basScreenSize = 22, 22, 503, 396, C
+frmAddTable = 110, 110, 591, 484, C, 88, 88, 569, 462, C
+frmAddColumn = 176, 176, 657, 550, C, 154, 154, 635, 528, C
+frmViewColumns = 132, 132, 613, 506, C, 66, 66, 547, 440, C
+frmConnecting = 66, 66, 547, 440, C, 132, 132, 613, 506, C
+frmRenameTable = 66, 66, 590, 440, C, 44, 44, 568, 418, C
+frmRenameColumn = 0, 0, 524, 374, C, 176, 176, 700, 550, C
+frmPassword = 176, 176, 666, 550, C, 154, 154, 644, 528, C
